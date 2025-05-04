@@ -1,0 +1,1 @@
+﻿namespace login_auth5.Dtos { public class RefreshTokenRequestDto { public string? Email { get; set; } public string? Phone { get; set; } public string RefreshToken { get; set; } = string.Empty; } }
